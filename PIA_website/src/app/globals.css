@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-pia-navy: #001B4C;
+  --color-pia-blue: #034EA2;
+  --color-pia-blue-light: #2a69b8;
+  --color-pia-green: #006633;
+  --color-pia-green-dark: #004d26;
+  --color-pia-green-light: #00703C;
+  --color-pia-gold: #c4962c;
+  --color-pia-gold-light: #d4a843;
+  --color-pia-gray-light: #f0f4fb;
+  --color-pia-gray: #e0e0e0;
+  --color-pia-dark: #495057;
+  --color-pia-darker: #333333;
+  --color-pia-bg: #f0f4fb;
+  --font-sans: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f0f4fb;
+  color: #495057;
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #034EA2;
+  border-radius: 4px;
+}
+
+/* Carousel transitions */
+.carousel-slide {
+  transition: transform 0.5s ease-in-out;
+}
+
+/* Tab active indicator */
+.tab-active {
+  border-bottom: 3px solid #034EA2;
+}
+
+/* Ticker animation */
+@keyframes ticker {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.ticker-animate {
+  animation: ticker 30s linear infinite;
+}
+
+.ticker-animate:hover {
+  animation-play-state: paused;
+}
+
+/* Slick-like dots */
+.slick-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  list-style: none;
+  padding: 0;
+}
