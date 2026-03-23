@@ -16,7 +16,7 @@ const offers = [
     fromCode: "ISB",
     to: "Paris",
     toCode: "CDG",
-    price: "PKR 167,425.00",
+    price: "PKR 287,771.00",
     image: "https://www.piac.com.pk/images/offers/Paris%20-%20Shanzillizay.png",
   },
   {
@@ -24,7 +24,7 @@ const offers = [
     fromCode: "ISB",
     to: "Toronto",
     toCode: "YYZ",
-    price: "PKR 471,880.00",
+    price: "PKR 503,608.00",
     image: "https://www.piac.com.pk/images/offers/YTO.png",
   },
   {
@@ -32,7 +32,7 @@ const offers = [
     fromCode: "ISB",
     to: "Kuala Lumpur",
     toCode: "KUL",
-    price: "PKR 102,886.00",
+    price: "PKR 150,437.00",
     image: "https://www.piac.com.pk/images/offers/kuala_lumpur.jpeg",
   },
   {
@@ -40,7 +40,7 @@ const offers = [
     fromCode: "LHE",
     to: "Baku",
     toCode: "GYD",
-    price: "PKR 110,332.00",
+    price: "PKR 111,625.00",
     image: "https://www.piac.com.pk/images/offers/baku_offers.png",
   },
 ];
