@@ -28,6 +28,7 @@ const footerLinks = {
   "Help & Contact": [
     { label: "Help & Contact", href: "#" },
     { label: "Special Assistance", href: "/help-contact/special-assistance" },
+    { label: "Assistance Form", href: "#" },
     { label: "Frequently Asked Questions", href: "#" },
     { label: "LHR Operation", href: "#" },
     { label: "Site Map", href: "#" },
@@ -176,6 +177,9 @@ export default function Footer() {
               </a>
               <a href="#" className="hover:text-gray-300 transition-colors">
                 Combating Human Trafficking
+              </a>
+              <a href="#" className="hover:text-gray-300 transition-colors">
+                Cookie Consent
               </a>
             </div>
           </div>
