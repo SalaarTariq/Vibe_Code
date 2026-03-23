@@ -63,7 +63,6 @@ const navLinks = [
 
 const tickerItems = [
   { text: "Direct Flights from Lahore to London Starting 30 March 2026 ✈️", href: "/announcement/lhe-to-lhr" },
-  { text: "Attention Passengers - Flight Update", href: "/announcement/attention-passengers-flight-update" },
   { text: "PIA flights will operate from Terminal 5 at King Khalid Airport Riyadh", href: "/announcement/ruh-operation" },
   { text: "✈ PIA Resumes Flights to Manchester, Starting from October 25, 2025", href: "/announcement/uk-flights" },
   { text: "Travel Advisories & Other Important Announcements", href: "/announcement/travel-advisories-oia" },
