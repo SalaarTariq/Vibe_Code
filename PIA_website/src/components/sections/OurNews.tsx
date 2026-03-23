@@ -29,6 +29,12 @@ const newsItems = [
     description: "Discover the Europe of Asia where history, culture and affordability come together.",
     hasVideo: true,
   },
+  {
+    image: "https://www.piac.com.pk/images/news/LHE_LON_thumbnail.png",
+    title: "Direct Flights from Lahore to London",
+    description: "PIA launches direct flights from Lahore to London Heathrow starting 30 March 2026.",
+    hasVideo: false,
+  },
 ];
 
 export default function OurNews() {
