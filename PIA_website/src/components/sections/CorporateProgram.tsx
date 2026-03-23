@@ -24,7 +24,7 @@ export default function CorporateProgram() {
             A+ Executive Corporate Program
           </h2>
           <p className="text-gray-300 text-base md:text-lg leading-relaxed mb-8">
-            Our business services offer flexibility and exclusive savings for your company.
+            Our business services offer flexibility and exclusive savings for your company. We provide tailored solutions based on your travel spend to maximize your corporate travel budget. You can collectively earn rewards from all employee travel and redeem them for dynamic flights.
           </p>
           <a
             href="/loyalty-programs/corporate-club"
