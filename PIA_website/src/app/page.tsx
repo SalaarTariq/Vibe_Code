@@ -6,6 +6,7 @@ import OurServices from "@/components/sections/OurServices";
 import BestOffers from "@/components/sections/BestOffers";
 import CorporateProgram from "@/components/sections/CorporateProgram";
 import OurNews from "@/components/sections/OurNews";
+import MobileApp from "@/components/sections/MobileApp";
 import NewsletterBar from "@/components/layout/NewsletterBar";
 import Footer from "@/components/layout/Footer";
 
@@ -21,6 +22,7 @@ export default function Home() {
         <BestOffers />
         <CorporateProgram />
         <OurNews />
+        <MobileApp />
       </main>
       <NewsletterBar />
       <Footer />
