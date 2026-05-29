@@ -1,0 +1,362 @@
+[
+  {
+    "section": "navbar",
+    "viewport": "desktop",
+    "status": "ok",
+    "ourSize": {
+      "width": 1440,
+      "height": 70
+    },
+    "piaSize": {
+      "width": 1440,
+      "height": 110
+    },
+    "diff": {
+      "diffPixels": 11870,
+      "totalPixels": 158400,
+      "ratio": 0.07493686868686869
+    }
+  },
+  {
+    "section": "hero",
+    "viewport": "desktop",
+    "status": "ok",
+    "ourSize": {
+      "width": 1440,
+      "height": 564
+    },
+    "piaSize": {
+      "width": 1440,
+      "height": 564
+    },
+    "diff": {
+      "diffPixels": 194326,
+      "totalPixels": 812160,
+      "ratio": 0.23927058707643814
+    }
+  },
+  {
+    "section": "booking-widget",
+    "viewport": "desktop",
+    "status": "ok",
+    "ourSize": {
+      "width": 1440,
+      "height": 143
+    },
+    "piaSize": {
+      "width": 1084,
+      "height": 278
+    },
+    "diff": {
+      "diffPixels": 55668,
+      "totalPixels": 401760,
+      "ratio": 0.13856033452807645
+    }
+  },
+  {
+    "section": "services",
+    "viewport": "desktop",
+    "status": "ok",
+    "ourSize": {
+      "width": 1440,
+      "height": 330
+    },
+    "piaSize": {
+      "width": 1440,
+      "height": 674
+    },
+    "diff": {
+      "diffPixels": 347061,
+      "totalPixels": 972000,
+      "ratio": 0.3570586419753086
+    }
+  },
+  {
+    "section": "offers",
+    "viewport": "desktop",
+    "status": "ok",
+    "ourSize": {
+      "width": 1440,
+      "height": 274
+    },
+    "piaSize": {
+      "width": 1320,
+      "height": 716
+    },
+    "diff": {
+      "diffPixels": 740212,
+      "totalPixels": 1032480,
+      "ratio": 0.7169262358592903
+    }
+  },
+  {
+    "section": "corporate",
+    "viewport": "desktop",
+    "status": "ok",
+    "ourSize": {
+      "width": 1440,
+      "height": 181
+    },
+    "piaSize": {
+      "width": 1440,
+      "height": 432
+    },
+    "diff": {
+      "diffPixels": 554924,
+      "totalPixels": 623520,
+      "ratio": 0.88998588657942
+    }
+  },
+  {
+    "section": "news",
+    "viewport": "desktop",
+    "status": "ok",
+    "ourSize": {
+      "width": 1440,
+      "height": 344
+    },
+    "piaSize": {
+      "width": 1320,
+      "height": 656
+    },
+    "diff": {
+      "diffPixels": 550053,
+      "totalPixels": 946080,
+      "ratio": 0.5814022070015221
+    }
+  },
+  {
+    "section": "mobile-app",
+    "viewport": "desktop",
+    "status": "ok",
+    "ourSize": {
+      "width": 1440,
+      "height": 340
+    },
+    "piaSize": {
+      "width": 640,
+      "height": 300
+    },
+    "diff": {
+      "diffPixels": 157629,
+      "totalPixels": 491040,
+      "ratio": 0.3210105083088954
+    }
+  },
+  {
+    "section": "newsletter",
+    "viewport": "desktop",
+    "status": "ok",
+    "ourSize": {
+      "width": 1440,
+      "height": 180
+    },
+    "piaSize": {
+      "width": 640,
+      "height": 300
+    },
+    "diff": {
+      "diffPixels": 309321,
+      "totalPixels": 433440,
+      "ratio": 0.7136420265780731
+    }
+  },
+  {
+    "section": "footer",
+    "viewport": "desktop",
+    "status": "ok",
+    "ourSize": {
+      "width": 1440,
+      "height": 277
+    },
+    "piaSize": {
+      "width": 1440,
+      "height": 537
+    },
+    "diff": {
+      "diffPixels": 503347,
+      "totalPixels": 774720,
+      "ratio": 0.6497147356464271
+    }
+  },
+  {
+    "section": "navbar",
+    "viewport": "mobile",
+    "status": "ok",
+    "ourSize": {
+      "width": 390,
+      "height": 70
+    },
+    "piaSize": {
+      "width": 390,
+      "height": 103
+    },
+    "diff": {
+      "diffPixels": 4153,
+      "totalPixels": 40560,
+      "ratio": 0.10239151873767259
+    }
+  },
+  {
+    "section": "hero",
+    "viewport": "mobile",
+    "status": "ok",
+    "ourSize": {
+      "width": 390,
+      "height": 153
+    },
+    "piaSize": {
+      "width": 390,
+      "height": 153
+    },
+    "diff": {
+      "diffPixels": 18464,
+      "totalPixels": 59670,
+      "ratio": 0.3094352270822859
+    }
+  },
+  {
+    "section": "booking-widget",
+    "viewport": "mobile",
+    "status": "ok",
+    "ourSize": {
+      "width": 390,
+      "height": 457
+    },
+    "piaSize": {
+      "width": 374,
+      "height": 866
+    },
+    "diff": {
+      "diffPixels": 92913,
+      "totalPixels": 338130,
+      "ratio": 0.2747848460651229
+    }
+  },
+  {
+    "section": "services",
+    "viewport": "mobile",
+    "status": "ok",
+    "ourSize": {
+      "width": 390,
+      "height": 1201
+    },
+    "piaSize": {
+      "width": 360,
+      "height": 2666
+    },
+    "diff": {
+      "diffPixels": 577854,
+      "totalPixels": 1040130,
+      "ratio": 0.5555594012286925
+    }
+  },
+  {
+    "section": "offers",
+    "viewport": "mobile",
+    "status": "ok",
+    "ourSize": {
+      "width": 390,
+      "height": 1286
+    },
+    "piaSize": {
+      "width": 358,
+      "height": 1671
+    },
+    "diff": {
+      "diffPixels": 480004,
+      "totalPixels": 652080,
+      "ratio": 0.7361121334805545
+    }
+  },
+  {
+    "section": "corporate",
+    "viewport": "mobile",
+    "status": "ok",
+    "ourSize": {
+      "width": 390,
+      "height": 252
+    },
+    "piaSize": {
+      "width": 390,
+      "height": 405
+    },
+    "diff": {
+      "diffPixels": 137400,
+      "totalPixels": 158340,
+      "ratio": 0.867752936718454
+    }
+  },
+  {
+    "section": "news",
+    "viewport": "mobile",
+    "status": "ok",
+    "ourSize": {
+      "width": 390,
+      "height": 1015
+    },
+    "piaSize": {
+      "width": 358,
+      "height": 477
+    },
+    "diff": {
+      "diffPixels": 199931,
+      "totalPixels": 395850,
+      "ratio": 0.5050675761020589
+    }
+  },
+  {
+    "section": "mobile-app",
+    "viewport": "mobile",
+    "status": "ok",
+    "ourSize": {
+      "width": 390,
+      "height": 517
+    },
+    "piaSize": {
+      "width": 370,
+      "height": 300
+    },
+    "diff": {
+      "diffPixels": 98149,
+      "totalPixels": 202410,
+      "ratio": 0.484901931722741
+    }
+  },
+  {
+    "section": "newsletter",
+    "viewport": "mobile",
+    "status": "ok",
+    "ourSize": {
+      "width": 390,
+      "height": 287
+    },
+    "piaSize": {
+      "width": 370,
+      "height": 358
+    },
+    "diff": {
+      "diffPixels": 124713,
+      "totalPixels": 140010,
+      "ratio": 0.89074351832012
+    }
+  },
+  {
+    "section": "footer",
+    "viewport": "mobile",
+    "status": "ok",
+    "ourSize": {
+      "width": 390,
+      "height": 1027
+    },
+    "piaSize": {
+      "width": 390,
+      "height": 969
+    },
+    "diff": {
+      "diffPixels": 295502,
+      "totalPixels": 400920,
+      "ratio": 0.7370597625461439
+    }
+  }
+]
