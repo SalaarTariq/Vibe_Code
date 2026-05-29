@@ -98,7 +98,7 @@ export default function Navbar() {
       </div>
 
       {/* Main Navbar */}
-      <nav className="bg-white shadow-md sticky top-0 z-50">
+      <nav data-section="navbar" className="bg-white shadow-md sticky top-0 z-50">
         <div className="max-w-[1400px] mx-auto px-4">
           <div className="flex items-center justify-between h-[70px]">
             {/* PIA Logo */}

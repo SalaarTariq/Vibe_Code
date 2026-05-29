@@ -47,7 +47,7 @@ const offers = [
 
 export default function BestOffers() {
   return (
-    <section className="py-12 md:py-16 bg-pia-gray-light">
+    <section data-section="offers" className="py-12 md:py-16 bg-pia-gray-light">
       <div className="max-w-[1400px] mx-auto px-4">
         <div className="text-center mb-10">
           <h2 className="text-2xl md:text-3xl font-bold text-pia-navy mb-2">

@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function MobileApp() {
   return (
-    <section className="py-12 md:py-16 bg-pia-gray-light">
+    <section data-section="mobile-app" className="py-12 md:py-16 bg-pia-gray-light">
       <div className="max-w-[1400px] mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center justify-center gap-8 md:gap-16">
           {/* Phone mockup */}

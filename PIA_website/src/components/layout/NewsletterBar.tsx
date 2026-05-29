@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function NewsletterBar() {
   return (
-    <section className="bg-pia-navy py-8">
+    <section data-section="newsletter" className="bg-pia-navy py-8">
       <div className="max-w-[1400px] mx-auto px-4">
         <div className="flex flex-col lg:flex-row items-center justify-between gap-8">
           {/* Newsletter */}

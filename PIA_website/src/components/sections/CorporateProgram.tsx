@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function CorporateProgram() {
   return (
-    <section className="relative py-16 md:py-24 overflow-hidden">
+    <section data-section="corporate" className="relative py-16 md:py-24 overflow-hidden">
       {/* Background with dark overlay */}
       <div className="absolute inset-0 bg-pia-navy" />
       <div className="absolute inset-0 opacity-20">

@@ -49,7 +49,7 @@ export default function HeroCarousel() {
   }, [nextSlide]);
 
   return (
-    <div className="relative w-full overflow-hidden" style={{ aspectRatio: "1905/746" }}>
+    <div data-section="hero" className="relative w-full overflow-hidden" style={{ aspectRatio: "1905/746" }}>
       {/* Slides */}
       {slides.map((slide, index) => (
         <div

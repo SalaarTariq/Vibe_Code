@@ -34,7 +34,7 @@ export default function BookingWidget() {
   const totalPassengers = adults + children + infants;
 
   return (
-    <div className="relative z-30 -mt-16 md:-mt-24 lg:-mt-32">
+    <div data-section="booking-widget" className="relative z-30 -mt-16 md:-mt-24 lg:-mt-32">
       <div className="max-w-[1100px] mx-auto px-4">
         <div className="bg-white rounded-xl shadow-2xl overflow-hidden">
           {/* Tabs */}
