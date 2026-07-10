@@ -80,3 +80,5 @@ If needed, add a `LICENSE` file (e.g., MIT) for open usage.
 ### Author
 **Salaar Tariq**  
 GitHub: [@SalaarTariq](https://github.com/SalaarTariq)
+
+Minor update: repository maintenance note added on July 10, 2026.
